@@ -1,6 +1,6 @@
 import React from 'react';
 import './index.css';
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 import HeroSection from './components/HeroSection'
 import FeatureSection from './components/FeatureSection';
 import Pricing from './components/Pricing';
